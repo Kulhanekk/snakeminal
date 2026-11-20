@@ -1,2 +1,2 @@
 # snakeminal
-terminal classic snake game
+classic snake game in terminal
